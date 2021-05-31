@@ -1,7 +1,5 @@
 ## 第 24 章 制作 HTTP 服务器端
 
-本章代码，在[TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)中可以找到。
-
 ### 24.1 HTTP 概要
 
 本章将编写 HTTP（HyperText Transfer Protocol，超文本传输协议）服务器端，即 Web 服务器端。
